@@ -1,4 +1,4 @@
-- just a student enjoying coding
+- 🙌just a student enjoying coding
 
 <!---
 mmaarrius/mmaarrius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
